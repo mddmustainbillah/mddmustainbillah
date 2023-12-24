@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustain 💻</h1>
 
 
-Passionate Data Science enthusiast, dedicated to translating technical skills into real-world impact. With a background in engineering and a focus on Applied Statistics and Data Science, I thrive on collaborative problem-solving. Let's explore the endless possibilities at the intersection of technology and data-driven innovation.
+Using what I learned in my engineering studies, I explore where technology and innovation meet. I recently finished my Master's in Applied Statistics and Data Science at Jahangirnagar University, and I'm really into digging into the exciting world of data science. I don't just stay in school—I'm on a mission to create things that make a real difference in people's lives. Whether it's cracking tough problems in class or coming up with new ideas at work, I always team up with others to tackle big challenges. I love being a leader, especially when it comes to helping out the community. I know that sharing what I've learned can make a big impact. When I'm not deep into coding and data stuff, you'll find me finding joy and excitement on the football field. Now that my Master's is done, I'm ready to take all these experiences and make a difference in the world of data science.
 
+<br>
 - 🔭 I’m currently working on **sensor data analysis and dashboarding with Streamlit.**
 
 - 🌱 I’m currently learning **MLOps**
