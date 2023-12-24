@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustain 💻</h1>
-<h3 align="center">Passionate Data Science enthusiast, dedicated to translating technical skills into real-world impact. With a background in engineering and a focus on Applied Statistics and Data Science, I thrive on collaborative problem-solving. Let's explore the endless possibilities at the intersection of technology and data-driven innovation.</h3>
+
+
+Passionate Data Science enthusiast, dedicated to translating technical skills into real-world impact. With a background in engineering and a focus on Applied Statistics and Data Science, I thrive on collaborative problem-solving. Let's explore the endless possibilities at the intersection of technology and data-driven innovation.
 
 - 🔭 I’m currently working on **sensor data analysis and dashboarding with Streamlit.**
 
