@@ -1,31 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mustain 💻</h1>
 
+I’m a Data Scientist & MLOps Engineer who helps businesses turn raw data into measurable growth.  
+With 2+ years of experience and a Master’s in Applied Statistics and Data Science, I work at the intersection of data, technology, and business impact.
 
-I’m a Data Scientist & MLOps Engineer who helps businesses turn raw data into measurable growth and competitive advantage. With 2+ years of industry experience and a Master’s in Applied Statistics and Data Science, I bridge the gap between data science innovation and business impact.
+I focus on:
+- Boosting KPIs with data-driven decision-making and predictive analytics  
+- Streamlining operations through automated ML pipelines and real-time dashboards  
+- Reducing costs by optimizing data workflows and deploying scalable ML models  
+- Speeding up time-to-insight with production-ready deployments using MLflow, DVC, Prefect, Docker, and FastAPI  
 
-<br>
-I specialize in:
-- Boosting business KPIs through data-driven decision-making and predictive analytics
-- Streamlining operations with automated machine learning pipelines and real-time dashboards
-- Reducing costs & inefficiencies by optimizing data workflows and deploying scalable ML models
-- Accelerating time-to-insight through fast, production-ready deployments using MLflow, DVC, Prefect, Docker, and FastAPI
+Some wins I’m proud of:
+- Recovered **35% of churned customers** through targeted KPI dashboards  
+- Improved query performance by **20%** and cut processing time by **25%**  
+- Increased prediction accuracy by **15%** with better feature engineering and modeling  
 
-<br>
-My approach is hands-on and outcome-driven:
-✅ Built dashboards that recovered 35% of churned customers through targeted insights
-✅ Improved database query performance by 20%, reducing processing time by 25%
-✅ Developed ML models that increased prediction accuracy by 15%, enabling smarter decisions
-
-I don’t just deliver code—I deliver impact. Whether it’s optimizing customer retention, increasing sales, or enhancing operational efficiency, I align technical solutions with your business objectives to maximize ROI.
+I don’t just deliver models — I deliver impact. My goal is always to align technical solutions with business objectives and drive real results.
 
 <br>
-🔭 Currently building a full MLOps pipeline for monthly retraining & performance monitoring
 
-🌱 Exploring model optimization for faster, high-accuracy predictions at scale
+- 🔭 Currently building a **full MLOps pipeline** for monthly retraining & monitoring  
+- 🌱 Exploring **model optimization** for faster, high-accuracy predictions  
+- 👯 Open to collaborating on **projects that move the business needle**  
+- 📫 Reach me at **mustainbillah017@gmail.com**
 
-👯 Open to collaborations that drive measurable business results
-
-📫 Reach me at **mustainbillah017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
