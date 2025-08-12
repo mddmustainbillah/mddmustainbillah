@@ -1,18 +1,31 @@
 <h1 align="center">Hi 👋, I'm Mustain 💻</h1>
 
 
-Using what I learned in my engineering studies, I explore where technology and innovation meet. I recently finished my Master's in Applied Statistics and Data Science at Jahangirnagar University, and I'm really into digging into the exciting world of data science. I don't just stay in school—I'm on a mission to create things that make a real difference in people's lives. Whether it's cracking tough problems in class or coming up with new ideas at work, I always team up with others to tackle big challenges. I love being a leader, especially when it comes to helping out the community. I know that sharing what I've learned can make a big impact. When I'm not deep into coding and data stuff, you'll find me finding joy and excitement on the football field. Now that my Master's is done, I'm ready to take all these experiences and make a difference in the world of data science.
+I’m a Data Scientist & MLOps Engineer who helps businesses turn raw data into measurable growth and competitive advantage. With 2+ years of industry experience and a Master’s in Applied Statistics and Data Science, I bridge the gap between data science innovation and business impact.
 
 <br>
-- 🔭 I’m currently working on **sensor data analysis and dashboarding with Streamlit.**
+I specialize in:
+- Boosting business KPIs through data-driven decision-making and predictive analytics
+- Streamlining operations with automated machine learning pipelines and real-time dashboards
+- Reducing costs & inefficiencies by optimizing data workflows and deploying scalable ML models
+- Accelerating time-to-insight through fast, production-ready deployments using MLflow, DVC, Prefect, Docker, and FastAPI
 
-- 🌱 I’m currently learning **MLOps**
+<br>
+My approach is hands-on and outcome-driven:
+✅ Built dashboards that recovered 35% of churned customers through targeted insights
+✅ Improved database query performance by 20%, reducing processing time by 25%
+✅ Developed ML models that increased prediction accuracy by 15%, enabling smarter decisions
 
-- 👯 I’m looking to collaborate on **innovative data science projects**
+I don’t just deliver code—I deliver impact. Whether it’s optimizing customer retention, increasing sales, or enhancing operational efficiency, I align technical solutions with your business objectives to maximize ROI.
 
-- 💬 Ask me about **Data Science**
+<br>
+🔭 Currently building a full MLOps pipeline for monthly retraining & performance monitoring
 
-- 📫 How to reach me **mustainbillah017@gmail.com**
+🌱 Exploring model optimization for faster, high-accuracy predictions at scale
+
+👯 Open to collaborations that drive measurable business results
+
+📫 Reach me at **mustainbillah017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
